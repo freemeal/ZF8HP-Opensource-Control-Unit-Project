@@ -1,0 +1,15 @@
+﻿Part,Manufacturer,Part Number,Quantity,Price ($),Footprint (mm²),Description
+Cadj,MuRata,GRM1555C1H102JA01J,1,0.01,3,Cap: 1 nF  Total Derated Cap: 1 nF  VDC: 50 V  ESR: 0 Ω  Package: 0402  
+Cin,TDK,C2012X5R1V156M125AC,2,0.21,6.75,Cap: 15 µF  Total Derated Cap: 2.4 µF  VDC: 35 V  ESR: 1.67 mΩ  Package: 0805  
+Cout,Panasonic,10TPB47M,1,0.34,17.1,Cap: 47 µF  Total Derated Cap: 47 µF  VDC: 10 V  ESR: 70 mΩ  Package: 3528-20  
+Cvcc,TDK,C1005X6S1C105K050BC,1,0.02,3,Cap: 1 µF  Total Derated Cap: 1 µF  VDC: 16 V  ESR: 11.42 mΩ  Package: 0402  
+D1,SMC Diode Solutions,SBRD10200TR,1,0.12,101.71,Type: Schottky  VRRM: 200 V  Io: 10 A  
+L1,Coilcraft,XAL7070-332MEB,1,1.19,87.4,L: 3.3 µH  DCR: 8.6 mΩ  IDC: 15.1 A  
+M1,Vishay-Siliconix,Si7149DP,1,0.68,55.13,VdsMax: -30 V  IdsMax: -23.7 Amps  
+Radj,Vishay-Dale,CRCW04023K32FKED,1,0.01,3,Resistance: 3.32 kΩ  Tolerance: 1.0%  Power: 63 mW  
+Rfb1,Yageo,RC0603FR-072K2L,1,0.01,4.68,Resistance: 2.2 kΩ  Tolerance: 1.0%  Power: 100 mW  
+Rfb2,Yageo,RC0201FR-0710KL,1,0.01,2.08,Resistance: 10 kΩ  Tolerance: 1.0%  Power: 50 mW  
+Rsns,Stackpole Electronics Inc,CSR1206FK10L0,1,0.12,10.92,Resistance: 10 mΩ  Tolerance: 1.0%  Power: 500 mW  
+Rt,Yageo,RC0201FR-0756K2L,1,0.01,2.08,Resistance: 56.2 kΩ  Tolerance: 1.0%  Power: 50 mW  
+U1,Texas Instruments,LM25085AMY/NOPB,1,0.66,23.6,
+Cff,MuRata,GRM1885C1H242JA01D,1,0.02,4.68,Cap: 2.4 nF  Total Derated Cap: 2.4 nF  VDC: 50 V  ESR: 1 mΩ  Package: 0603  
